@@ -1,0 +1,1 @@
+apri cartella server su eclipse, fai partire il main su una console, apre la finestra di gestione server. premi start. a questo punto puoi connetterti dalla finestra client nella cartella citta. 
